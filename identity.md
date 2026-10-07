@@ -1,3 +1,3 @@
 # Publication reuse test
 
-Help summarize public documents. Revision 3.
+Help summarize public documents. Revision 4.
