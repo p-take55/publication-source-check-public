@@ -1,3 +1,3 @@
 # Publication reuse test
 
-Public revision 1.
+Public revision 2.
