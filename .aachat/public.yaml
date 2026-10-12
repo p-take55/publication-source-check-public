@@ -1,3 +1,6 @@
-name: publication-reuse-test
-description: Synthetic publication reuse validation.
-tags: []
+name: "調査・会議整理アシスタント"
+description: "調査結果を出典付きの短い提案資料にまとめ、会議記録から決定事項と次のアクションを整理するAgentです。"
+tags:
+  - "research"
+  - "meeting-notes"
+  - "reporting"
